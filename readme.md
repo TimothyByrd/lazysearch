@@ -1,4 +1,6 @@
-The plug-in was originally by Stuart Hickinbottom. It's forked and repackaged here to work with newer versions of LMS.
+This plug-in was originally by Stuart Hickinbottom. It's forked and repackaged here to work with newer versions of LMS.
+
+***
 
 Lazy Search Music Plugin for Squeezebox Server, SqueezeCenter and SlimServer
 "Never put off until tomorrow what you can put off until the day after"
@@ -16,6 +18,8 @@ That's 65% fewer buttons-pushes!
 
 As the plugin removes the need for multiple button-pushes I call this Lazy
 Searching.
+
+***
 
 The repo url for the plugin is:
 
