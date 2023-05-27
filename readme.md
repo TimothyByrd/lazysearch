@@ -1,5 +1,7 @@
+The plug-in was originally by Stuart Hickinbottom. It's forked and repackaged here to work with newer versions of LMS.
+
 Lazy Search Music Plugin for Squeezebox Server, SqueezeCenter and SlimServer
-“Never put off until tomorrow what you can put off until the day after…”
+"Never put off until tomorrow what you can put off until the day after"
 
 Performing searches using the Squeezebox/Transporter infra-red remote controls
 is somewhat cumbersome, to say the least. Multiple button-pushes are required
