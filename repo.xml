@@ -5,7 +5,7 @@
     <title lang="EN">Timothy Byrd's Squeezebox Server Plugins</title>
   </details>
   <plugins>
-    <plugin name="LazySearch2" version="3.6.8" target="windows|mac|unix" minTarget="7.6" maxTarget="8.3+">
+    <plugin name="LazySearch2" version="3.6.8" target="windows|mac|unix" minTarget="7.6" maxTarget="9.3+">
       <title lang="EN">LazySearch2</title>
       <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results "as you type". This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
       <creator>Stuart Hickinbottom</creator>
